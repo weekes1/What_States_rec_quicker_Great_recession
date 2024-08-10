@@ -6,6 +6,7 @@ library(writexl)
 library(readr)
 ##########Checking HPI Data Frame clean##################
 library(readr)
+#modify for relevant file bath
 HPI_state <- read_csv("Economics with GIS/Inflation project/HPI_state.csv")
 View(HPI_state)
 
